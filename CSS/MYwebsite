@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body{
+background-color:black;
+}
+h1{
+color:DodgerBlue;
+text-align:Center;
+}
+</style>
+</head>
+<body>
+
+<h1>MyHugeBalls.com</h1>
+<p>Welcome to my huge balls.com. Please enjoy these pictures of huge balls. Giant volley balls are the coolest hing so I made this website! </p>
+
+<img src="https://i.ebayimg.com/images/g/MvQAAOSw1cNaHzGF/s-l300.jpg" alt="Ball Number 1">
+
+<img src="https://i.pinimg.com/originals/09/cf/a3/09cfa3af3a889649465d1aaf94b2614a.jpg" alt="Ball Number 2">
+
+<img src="http://static.dudeiwantthat.com//img/outdoors/beach/giant-inflatable-beach-ball-3994.jpg" alt="Ball Number 3">
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51d8xgD1WbL._SL1000_.jpg" alt="Ball Number 4">
+
+<div style="background-image: url('https://66.media.tumblr.com/6107d5a087138924aa985583f1608405/tumblr_prd902epFs1r53ppf_1280.jpg');">
+
+<h2> The Scrpit for the website.</h2>
+
+</body>
+</html>
