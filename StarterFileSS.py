@@ -6,7 +6,7 @@ import math
 
 pygame.init()
 
-W, H = 800, 447
+W, H = 900, 497
 win = pygame.display.set_mode((W,H))
 pygame.display.set_caption('Big old juicy game')
 
@@ -69,7 +69,7 @@ def redrawWindow():
     pygame.display.update()
 
 
-runner = player(200, 313,64,64)
+runner = player(200, 325,64,64)
 pygame.time.set_timer(USEREVENT+1,500)
 run = True
 speed = 30
